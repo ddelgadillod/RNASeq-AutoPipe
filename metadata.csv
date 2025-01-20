@@ -1,0 +1,12 @@
+file1,file2,type,shortName,meta1,meta2,meta3,replicate,trimmed1,trimmed2
+sub1.5M-Ctrl_Estres_R1_1.fastq.gz,sub1.5M-Ctrl_Estres_R1_2.fastq.gz,paired,cont_estres_R1,Estres,Inoculado,A,1,sub1.5M-Ctrl_Estres_R1_1_paired.fastq.gz,sub1.5M-Ctrl_Estres_R1_2_paired.fastq.gz
+sub1.5M-Ctrl_Estres_R2_1.fastq.gz,sub1.5M-Ctrl_Estres_R2_2.fastq.gz,paired,cont_estres_R2,Estres,Inoculado,A,2,sub1.5M-Ctrl_Estres_R2_1_paired.fastq.gz,sub1.5M-Ctrl_Estres_R2_2_paired.fastq.gz
+sub1.5M-Ctrll_Estres_R3_1.fastq.gz,sub1.5M-Ctrll_Estres_R3_2.fastq.gz,paired,cont_estres_R3,Estres,Inoculado,A,3,sub1.5M-Ctrll_Estres_R3_1_paired.fastq.gz,sub1.5M-Ctrll_Estres_R3_2_paired.fastq.gz
+sub1.5M-Control_R1_1.fastq.gz,sub1.5M-Control_R1_2.fastq.gz,paired,control_R1,Control,No_inoculado,B,1,sub1.5M-Control_R1_1_paired.fastq.gz,sub1.5M-Control_R1_2_paired.fastq.gz
+sub1.5M-Control_R2_1.fastq.gz,sub1.5M-Control_R2_2.fastq.gz,paired,control_R2,Control,No_inoculado,B,2,sub1.5M-Control_R2_1_paired.fastq.gz,sub1.5M-Control_R2_2_paired.fastq.gz
+sub1.5M-Ctrl_N7_XT17_R1_1.fastq.gz,sub1.5M-Ctrl_N7_XT17_R1_2.fastq.gz,paired,ctrl_N7_XT17_R1,Control,Inoculado,C,1,sub1.5M-Ctrl_N7_XT17_R1_1_paired.fastq.gz,sub1.5M-Ctrl_N7_XT17_R1_2_paired.fastq.gz
+sub1.5M-Ctrl_N7_XT17_R2_1.fastq.gz,sub1.5M-Ctrl_N7_XT17_R2_2.fastq.gz,paired,ctrl_N7_XT17_R2,Control,Inoculado,C,2,sub1.5M-Ctrl_N7_XT17_R2_1_paired.fastq.gz,sub1.5M-Ctrl_N7_XT17_R2_2_paired.fastq.gz
+sub1.5M-Ctrl_N7_XT17_R3_1.fastq.gz,sub1.5M-Ctrl_N7_XT17_R3_2.fastq.gz,paired,ctrl_N7_XT17_R3,Control,Inoculado,C,3,sub1.5M-Ctrl_N7_XT17_R3_1_paired.fastq.gz,sub1.5M-Ctrl_N7_XT17_R3_2_paired.fastq.gz
+sub1.5M-Estre_N7XT17_R1_1.fastq.gz,sub1.5M-Estre_N7XT17_R1_2.fastq.gz,paired,estres_N7_XT17_R1,Estres,No_inoculado,D,1,sub1.5M-Estre_N7XT17_R1_1_paired.fastq.gz,sub1.5M-Estre_N7XT17_R1_2_paired.fastq.gz
+sub1.5M-Estre_N7XT17_R2_1.fastq.gz,sub1.5M-Estre_N7XT17_R2_2.fastq.gz,paired,estres_N7_XT17_R2,Estres,No_inoculado,D,2,sub1.5M-Estre_N7XT17_R2_1_paired.fastq.gz,sub1.5M-Estre_N7XT17_R2_2_paired.fastq.gz
+sub1.5M-Estre_N7XT17_R3_1.fastq.gz,sub1.5M-Estre_N7XT17_R3_2.fastq.gz,paired,estres_N7_XT17_R3,Estres,No_inoculado,D,3,sub1.5M-Estre_N7XT17_R3_1_paired.fastq.gz,sub1.5M-Estre_N7XT17_R3_2_paired.fastq.gz
